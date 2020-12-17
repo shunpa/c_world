@@ -1,0 +1,92 @@
+@font-face
+{
+	font-family: "Lobster";
+	src:url('fonts/Lobster/Lobster-Regular.ttf');
+}
+
+h1
+{
+	font-family: "Lobster";
+}
+
+div#header i
+{
+	float: left;
+}
+
+.clear
+{
+	clear: both;
+}
+
+div#navbar ul li
+{
+	list-style: none;
+	float: left;
+}
+
+div#navbar ul li a
+{
+	text-decoration: none;
+	padding: 9px 30px;
+	text-transform: uppercase;
+	color: white;
+}
+
+div#navbar
+{
+	background-color: #4E342E;
+	height: 50px;
+	padding-top: 1px;
+}
+
+div#slider img
+{
+	width: 100%;
+}
+
+div.quote
+{
+	position: absolute;
+	top: 70%;
+	left: 25%;
+	font-size:25px;
+	background-color: rgba(255,255,255,0.5);
+	padding: 30px;
+	font-family:”Masterpiece Uni Sans”,Myanmar3;
+}
+
+div#Ourshop h2
+{
+	text-align: center;
+}
+
+div#Buynow
+{
+	list-style: none;
+	text-decoration: none;
+	padding: 9px 30px;
+	color: white;
+	background-color: #4E342E;
+	height: 50px;
+}
+
+
+div#footer ul li
+{
+	list-style: none;
+	float: left;
+	text-decoration: none;
+	padding: 9px 30px;
+	color: white;
+}
+
+div#footer
+{
+
+	background-color: #4E342E;
+	height: 50px;
+	
+}
+
+
